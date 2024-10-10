@@ -1,0 +1,65 @@
+#List of parameters for SPLATCHE3
+
+###Parameters linked to filenames
+
+PopDensityFile=./VAtalanta/dens_init_switzerland.txt
+PresVegetationFile=./VAtalanta/MapCH.asc
+Veg2KFile=./VAtalanta/dynamic_K.txt
+Veg2FFile=./VAtalanta/dynamic_F.txt
+
+###Parameters linked to demographic simulations
+
+ChosenDemographicModel=1
+EndTime=612
+GenerationTime=1
+GrowthRate=0.2
+MigrationRate=0.25
+AllowSourcePopulationOverflow=0
+TauValue=200
+AncestralSize=100
+ArrivalCellFile=./VAtalanta/Arrival_cell.col
+
+###Parameters linked to physical environment
+
+FrictionChoice=0
+RealBPTime=-40000
+RiverFrictionChangeFactor=1
+RiverCarCapChangeFactor=1
+CoastFrictionChangeFactor=1
+CoastCarCapChangeFactor=1
+
+###Parameters linked to genetic simulations
+
+SampleFile=./VAtalanta/VAtalanta.sam
+GeneticFile=./VAtalanta/modified_MAF.par
+NumGeneticSimulations=1
+GenotypicData=1
+MaxNumGenerations=10000
+NexusFile=0
+GenealogiesFile=0
+ImmigDistrFile=0
+
+###Parameters linked to double layers
+
+DoublePopulationMode=0
+ChosenDemographicModel_P2=23
+GrowthRate_P2=0.2
+MigrationRate_P2=0.15
+MigrRate_P1_to_P2=0
+MigrRate_P2_to_P1=0
+Veg2K_P2_File=./VAtalanta/dynamic_K2.txt
+Veg2F_P2_File=./VAtalanta/dynamic_F2.txt
+PropFile=0
+
+###Parameters linked to various other outputs
+
+GenerateOutputMigrationBMP=0
+GenerateOutputMDensityBMP=0
+GenerateOutputOccupationBMP=0
+GenerateOutputMigrationASCII=0
+GenerateOutputMDensityASCII=0
+GenerateOutputOccupationASCII=0
+
+### Miscelaneous Parameters
+
+AllowShortIntForNumberOfIndividuals=0
