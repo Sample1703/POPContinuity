@@ -1,0 +1,1204 @@
+301 //Num chromosomes
+#chromosome 1, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 2, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 3, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 4, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 5, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 6, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 7, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 8, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 9, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 10, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 11, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 12, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 13, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 14, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 15, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 16, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 17, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 18, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 19, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 20, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 21, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 22, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 23, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 24, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 25, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 26, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 27, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 28, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 29, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 30, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 31, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 32, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 33, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 34, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 35, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 36, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 37, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 38, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 39, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 40, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 41, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 42, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 43, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 44, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 45, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 46, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 47, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 48, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 49, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 50, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 51, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 52, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 53, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 54, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 55, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 56, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 57, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 58, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 59, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 60, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 61, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 62, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 63, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 64, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 65, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 66, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 67, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 68, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 69, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 70, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 71, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 72, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 73, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 74, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 75, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 76, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 77, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 78, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 79, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 80, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 81, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 82, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 83, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 84, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 85, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 86, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 87, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 88, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 89, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 90, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 91, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 92, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 93, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 94, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 95, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 96, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 97, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 98, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 99, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 100, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 101, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 102, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 103, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 104, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 105, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 106, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 107, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 108, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 109, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 110, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 111, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 112, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 113, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 114, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 115, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 116, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 117, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 118, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 119, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 120, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 121, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 122, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 123, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 124, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 125, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 126, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 127, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 128, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 129, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 130, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 131, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 132, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 133, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 134, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 135, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 136, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 137, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 138, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 139, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 140, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 141, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 142, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 143, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 144, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 145, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 146, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 147, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 148, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 149, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 150, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 151, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 152, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 153, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 154, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 155, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 156, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 157, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 158, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 159, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 160, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 161, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 162, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 163, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 164, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 165, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 166, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 167, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 168, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 169, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 170, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 171, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 172, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 173, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 174, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 175, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 176, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 177, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 178, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 179, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 180, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 181, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 182, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 183, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 184, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 185, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 186, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 187, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 188, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 189, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 190, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 191, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 192, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 193, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 194, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 195, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 196, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 197, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 198, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 199, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 200, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 201, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 202, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 203, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 204, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 205, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 206, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 207, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 208, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 209, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 210, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 211, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 212, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 213, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 214, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 215, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 216, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 217, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 218, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 219, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 220, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 221, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 222, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 223, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 224, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 225, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 226, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 227, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 228, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 229, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 230, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 231, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 232, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 233, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 234, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 235, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 236, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 237, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 238, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 239, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 240, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 241, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 242, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 243, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 244, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 245, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 246, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 247, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 248, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 249, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 250, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 251, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 252, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 253, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 254, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 255, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 256, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 257, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 258, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 259, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 260, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 261, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 262, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 263, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 264, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 265, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 266, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 267, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 268, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 269, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 270, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 271, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 272, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 273, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 274, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 275, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 276, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 277, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 278, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 279, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 280, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 281, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 282, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 283, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 284, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 285, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 286, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 287, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 288, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 289, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 290, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 291, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 292, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 293, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 294, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 295, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 296, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 297, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 298, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 299, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 300, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02
+
+#chromosome 301, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+SNP 1 0.0000 0.02

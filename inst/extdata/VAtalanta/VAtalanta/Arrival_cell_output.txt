@@ -1,0 +1,4 @@
+TIMES OF ARRIVAL
+samp1 : 0
+samp2 : 0
+samp3 : 0

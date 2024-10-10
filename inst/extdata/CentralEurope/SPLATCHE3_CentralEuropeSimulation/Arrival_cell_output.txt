@@ -1,0 +1,3 @@
+TIMES OF ARRIVAL
+samp1 : 139
+samp2 : 178

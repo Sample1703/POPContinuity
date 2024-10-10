@@ -1,0 +1,3159 @@
+#Arlequin input file written by the simulation program SPLATCHE ver 3.0
+
+#Simulation parameters:
+#======================
+
+#Deme sizes
+
+#Sample sizes (in number of genes)
+#Deme #1	86
+
+#Number of chromosome        : 301
+
+
+#Chromosome no 1
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 2
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 3
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 4
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 5
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 6
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 7
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 8
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 9
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 10
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 11
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 12
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 13
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 14
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 15
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 16
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 17
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 18
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 19
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 20
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 21
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 22
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 23
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 24
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 25
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 26
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 27
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 28
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 29
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 30
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 31
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 32
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 33
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 34
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 35
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 36
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 37
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 38
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 39
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 40
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 41
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 42
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 43
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 44
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 45
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 46
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 47
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 48
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 49
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 50
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 51
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 52
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 53
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 54
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 55
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 56
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 57
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 58
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 59
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 60
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 61
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 62
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 63
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 64
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 65
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 66
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 67
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 68
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 69
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 70
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 71
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 72
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 73
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 74
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 75
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 76
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 77
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 78
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 79
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 80
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 81
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 82
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 83
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 84
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 85
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 86
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 87
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 88
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 89
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 90
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 91
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 92
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 93
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 94
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 95
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 96
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 97
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 98
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 99
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 100
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 101
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 102
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 103
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 104
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 105
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 106
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 107
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 108
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 109
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 110
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 111
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 112
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 113
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 114
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 115
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 116
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 117
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 118
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 119
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 120
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 121
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 122
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 123
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 124
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 125
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 126
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 127
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 128
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 129
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 130
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 131
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 132
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 133
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 134
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 135
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 136
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 137
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 138
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 139
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 140
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 141
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 142
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 143
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 144
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 145
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 146
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 147
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 148
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 149
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 150
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 151
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 152
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 153
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 154
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 155
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 156
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 157
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 158
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 159
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 160
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 161
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 162
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 163
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 164
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 165
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 166
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 167
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 168
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 169
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 170
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 171
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 172
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 173
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 174
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 175
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 176
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 177
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 178
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 179
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 180
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 181
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 182
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 183
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 184
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 185
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 186
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 187
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 188
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 189
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 190
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 191
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 192
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 193
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 194
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 195
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 196
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 197
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 198
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 199
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 200
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 201
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 202
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 203
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 204
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 205
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 206
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 207
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 208
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 209
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 210
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 211
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 212
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 213
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 214
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 215
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 216
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 217
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 218
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 219
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 220
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 221
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 222
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 223
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 224
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 225
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 226
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 227
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 228
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 229
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 230
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 231
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 232
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 233
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 234
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 235
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 236
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 237
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 238
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 239
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 240
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 241
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 242
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 243
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 244
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 245
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 246
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 247
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 248
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 249
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 250
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 251
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 252
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 253
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 254
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 255
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 256
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 257
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 258
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 259
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 260
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 261
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 262
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 263
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 264
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 265
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 266
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 267
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 268
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 269
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 270
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 271
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 272
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 273
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 274
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 275
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 276
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 277
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 278
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 279
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 280
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 281
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 282
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 283
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 284
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 285
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 286
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 287
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 288
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 289
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 290
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 291
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 292
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 293
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 294
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 295
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 296
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 297
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 298
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 299
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 300
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+#Chromosome no 301
+#---------------
+#Num Linkage Blocks: 1
+
+#Blocks n 1
+#SNP Minimum Frequency = 0.02
+#Num linked loci      : 1
+#Recombination rate per generation      : 0
+#Mutation rate per generation      : 0
+
+[Profile]
+	Title="A series of simulated samples"
+	NbSamples=5
+	GenotypicData=1
+	GameticPhase=0
+	RecessiveData=0
+	DataType=RFLP
+	LocusSeparator=NONE
+	MissingData='?'
+
+[Data]
+	[[Samples]]
+
+		SampleName="H1910"
+		SampleSize=10
+		SampleData= {
+1_1	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	
+1_2	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+1_3	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+1_4	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+1_5	1	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+1_6	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+1_7	1	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+1_8	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+1_9	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	
+1_10	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	1 	1 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+
+}
+		SampleName="H1950"
+		SampleSize=9
+		SampleData= {
+2_1	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	
+2_2	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+2_3	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+2_4	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+2_5	1	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+2_6	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+2_7	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	
+2_8	1	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+2_9	1	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+
+}
+		SampleName="H1960"
+		SampleSize=10
+		SampleData= {
+3_1	1	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	
+3_2	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+3_3	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+3_4	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	
+3_5	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+3_6	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	
+3_7	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+3_8	1	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+3_9	1	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+3_10	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+
+}
+		SampleName="H1970"
+		SampleSize=7
+		SampleData= {
+4_1	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	
+4_2	1	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	
+4_3	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+4_4	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+4_5	1	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+4_6	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	
+4_7	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+
+}
+		SampleName="C2022"
+		SampleSize=7
+		SampleData= {
+5_1	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+5_2	1	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	
+5_3	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	1 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+5_4	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+5_5	1	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+5_6	1	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+		1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+5_7	1	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	
+		0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	1 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	1 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	0 	
+
+}
+
+[[Structure]]
+
+	StructureName="Simulated data"
+	NbGroups=1
+	Group={
+	   "H1910"
+	   "H1950"
+	   "H1960"
+	   "H1970"
+	   "C2022"
+	}

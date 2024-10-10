@@ -1,0 +1,31 @@
+1	10000	Tropical rainforest
+2	10000	Monsoon or dry forest
+3	10000	Tropical woodland
+4	10000	Tropical thorn scrub and scrub woodland
+5	10000	Tropical semi-desert
+6	10000	Tropical grassland
+7	10000	Tropical extreme desert
+8	10000	Savanna
+9	10000	Broadleaved temperate evergreen forest
+10	10000	Montane tropical forest
+11	10000	Mediterranean sclerophyll woodland or forest
+12	10000	Temperate deciduous broadleaved forest
+13	10000	Southern taiga
+14	10000	Mid Taiga
+15	10000	Open boreal woodlands
+16	10000	Semi-arid temperate woodland or scrub
+17	10000	Semi aride temperate scrub
+18	10000	Tundra
+19	10000	Steppe-tundra
+20	10000	Polar and alpine desert
+21	10000	Temperate desert
+22	10000	Temperate semi-desert
+23	10000	Forest steppe
+24	10000	Forest tundra
+25	10000	Montane Mosaic
+26	10000	Dry Steppe
+27	10000	Temperate Steppe Grassland
+28	10000	Bog/swamp
+29	10000	Ice sheet and other permanent ice
+30	10000	Lakes and open water
+31	10000	Ponts (japon, Sardaigne, orcadian, australie)

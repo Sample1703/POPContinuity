@@ -1,0 +1,4 @@
+1 //Num chromosomes
+#chromosome 1, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)
+1
+DNA 41 0.0000 0.000002 0.9841

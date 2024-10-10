@@ -1,0 +1,3 @@
+2
+1200 ./SPLATCHE3_CentralEuropeSimulation/vegK_L1_time_2.txt Time2
+1520 ./SPLATCHE3_CentralEuropeSimulation/vegK_L1_time_3.txt Time3

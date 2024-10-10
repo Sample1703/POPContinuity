@@ -1,0 +1,8 @@
+1
+Sourcepop	100	46.728504270  8.252881345	0	0	0	0	0	0
+
+Pop_name pop_size Lat Long ResizeA Time_ResizeB ResizeB MigrationFromCurrentSource NoPop TimeOfExpansion
+
+
+
+
