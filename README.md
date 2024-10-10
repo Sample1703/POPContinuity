@@ -9,11 +9,8 @@ To illustrate the usefulness of our package and to validate its results, we appl
 The data files concerning the application on human evolution are in the folder "inst/extdata/CentralEurope"
 Below is a description of the files located in this folder. 
 
-### SPLATCHE3_CentralEuropeSimulation
-
-Folder containing all the settings file for SPLATCHE3.
-
-### SPLATCHE3_CentralEuropeSimulation.txt
-
-Settings file with the information required to launch the simulation
+**SPLATCHE3_CentralEuropeSimulation**: Folder containing all the settings file for SPLATCHE3.
+**SPLATCHE3_CentralEuropeSimulation.txt**: Settings file with the information required to launch the simulation
+**simulations.sh**: Bash script to launch the simulations
+**SPLATCHE4-Linux-64b**: SPLATCHE3 executable 
 
