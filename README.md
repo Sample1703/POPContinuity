@@ -19,10 +19,9 @@ Below is a description of the files located in this folder.
 
 ### How to use this application
 
-Use the function main.haploid() located in "R/MainHaploid".
-This function requires two inputs : 
+The function main.haploid() located in "R/MainHaploid" requires two inputs : 
 - The number of simulations to perform
 - The name of the folder containing the settings
 
-Use the function as follow : main.haploid(10000,"SPLATCHE3_CentralEuropeSimulation")
+Use the function as follow : **main.haploid(10000,"SPLATCHE3_CentralEuropeSimulation")**
 
