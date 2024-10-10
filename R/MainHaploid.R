@@ -1,4 +1,4 @@
-#' Main function to perform a population continuity test
+#' Main function to perform a population continuity test on haploid data
 #'
 #' This function performs a series of computational steps, including setting up priors, running SPLATCHE3 simulations, computing genetic diversity statistics, performing ABC analysis, and conducting a continuity test.
 #'
@@ -186,5 +186,3 @@ main.haploid <- function(nmb_simul,folder)
 
   return(test_output) #return the output of the continuity test function
 }
-
-
