@@ -1,31 +1,31 @@
-1	9124	Tropical rainforest
-2	9124	Monsoon or dry forest
-3	9124	Tropical woodland
-4	9124	Tropical thorn scrub and scrub woodland
-5	9124	Tropical semi-desert
-6	9124	Tropical grassland
-7	9124	Tropical extreme desert
-8	9124	Savanna
-9	9124	Broadleaved temperate evergreen forest
-10	9124	Montane tropical forest
-11	9124	Mediterranean sclerophyll woodland or forest
-12	9124	Temperate deciduous broadleaved forest
-13	9124	Southern taiga
-14	9124	Mid Taiga
-15	9124	Open boreal woodlands
-16	9124	Semi-arid temperate woodland or scrub
-100	9124	Semi aride temperate scrub
-18	9124	Tundra
-19	9124	Steppe-tundra
-20	9124	Polar and alpine desert
-21	9124	Temperate desert
-22	9124	Temperate semi-desert
-23	9124	Forest steppe
-24	9124	Forest tundra
-25	9124	Montane Mosaic
-26	9124	Dry Steppe
-27	9124	Temperate Steppe Grassland
-28	9124	Bog/swamp
-29	9124	Ice sheet and other permanent ice
-30	9124	Lakes and open water
-100	9124	Ponts (japon, Sardaigne, orcadian, australie)
+1	5000	Tropical rainforest
+2	5000	Monsoon or dry forest
+3	5000	Tropical woodland
+4	5000	Tropical thorn scrub and scrub woodland
+5	5000	Tropical semi-desert
+6	5000	Tropical grassland
+7	5000	Tropical extreme desert
+8	5000	Savanna
+9	5000	Broadleaved temperate evergreen forest
+10	5000	Montane tropical forest
+11	5000	Mediterranean sclerophyll woodland or forest
+12	5000	Temperate deciduous broadleaved forest
+13	5000	Southern taiga
+14	5000	Mid Taiga
+15	5000	Open boreal woodlands
+16	5000	Semi-arid temperate woodland or scrub
+100	5000	Semi aride temperate scrub
+18	5000	Tundra
+19	5000	Steppe-tundra
+20	5000	Polar and alpine desert
+21	5000	Temperate desert
+22	5000	Temperate semi-desert
+23	5000	Forest steppe
+24	5000	Forest tundra
+25	5000	Montane Mosaic
+26	5000	Dry Steppe
+27	5000	Temperate Steppe Grassland
+28	5000	Bog/swamp
+29	5000	Ice sheet and other permanent ice
+30	5000	Lakes and open water
+100	5000	Ponts (japon, Sardaigne, orcadian, australie)
