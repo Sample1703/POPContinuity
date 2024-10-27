@@ -25,7 +25,11 @@ Below is a description of the files located in this folder.
 
 ##### Computations around K and its prior
 
-- Retrieve the value of K from the user dynamic_K file (only 1 vegetation file, no change, original value 5,000 to have a range between 500 and 50,000)
+- Retrieve the value of K from the user dynamic_K file (number of vegetation file: 1, change: no, original value: 5,000)
+- Build a prior of K values ranging from K/10 to K*10 (from 500 to 50,000)
+- Create a list of random K values of length equal to the number of simulations to perform (g.e. if 10,000 are performed, extract 10,000 random values of K)
+- Build an empty data frame designed to store the diversity statistics values
+- In the first column of the data frame, insert the random values of K
 
 
 
