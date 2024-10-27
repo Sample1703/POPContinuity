@@ -29,7 +29,22 @@ Below is a description of the files located in this folder.
 - Build a prior of K values ranging from K/10 to K*10 (from 500 to 50,000)
 - Create a list of random K values of length equal to the number of simulations to perform (g.e. if 10,000 are performed, extract 10,000 random values of K)
 - Build an empty data frame designed to store the diversity statistics values
-- In the first column of the data frame, insert the random values of K
+- In the first column of the data frame, insert the simulation ID
+
+##### In a for loop
+
+###### Generate and convert the .ARP file 
+
+- In the second column of the data frame, insert the random value of K (new K value)
+- Replace the old K value in the vegetation with the new K value
+- Launch 1 simulation
+- If the folder "GeneticsOutput" is created, copy the .ARP inside it into the working directory
+- Convert the .ARP file into a FASTA file
+- Move the .ARP file in a folder called "arp"
+
+###### Compute the diversity statistics
+
+
 
 
 
