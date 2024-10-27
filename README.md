@@ -19,11 +19,9 @@ Below is a description of the files located in this folder.
 
 **SPLATCHE4-Linux-64b**: SPLATCHE3 executable
 
-### How to use this application
+### How to perform the analysis
 
-The function main.haploid() located in "R/MainHaploid" requires two inputs : 
-- The number of simulations to perform
-- The name of the folder containing the settings
 
-Use the function as follow : **main.haploid(10000,"SPLATCHE3_CentralEuropeSimulation")**
+
+
 
