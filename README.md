@@ -85,8 +85,6 @@ The main function returns the output of the ABC analysis, a data frame containin
 - The goodness-of-fit
 - Its associated p-value
 
-- 
-
 
 
 
