@@ -21,6 +21,12 @@ Below is a description of the files located in this folder.
 
 ### How to perform the analysis
 
+#### Main function 
+
+##### Computations around K and its prior
+
+- Retrieve the value of K from the user dynamic_K file (only 1 vegetation file, no change, original value 5,000 to have a range between 500 and 50,000)
+
 
 
 
