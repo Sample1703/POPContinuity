@@ -60,7 +60,32 @@ Below is a description of the files located in this folder.
 - Convert the loci object into a genind object
 - Compute the Fst
 
-One computed diversity statistics are stored in the statistics data frame created earlier. 
+Once computed, the diversity statistics are stored in the statistics data frame created earlier. 
+
+**ABC analysis**
+
+- Create a subset of the data frame containing the diversity statistics for each sample pair
+- Save the subsets into .TXT files
+- Save the statistics data frame into an RData file
+- Create a new empty data frame to store the output of the ABC analysis
+- Read the observed statistics, located in a file called "RealDataObs.obs" and create a subset of each sample pair 
+
+##### For each subset (for loop)
+
+- Perform the ABC analysis using the intra-population diversity values of the two samples in the pair
+- Save the statistics of the simulations retained by the ABC analysis into an RData file
+- Save the results of the ABC analysis into the previously created empty data frame
+
+The main function returns the output of the ABC analysis, a data frame containing :
+
+- The name of the studied pair
+- The intra-population diversity value for the first sample of the pair
+- The intra-population diversity value for the second sample of the pair
+- The Fst value of the sample pair
+- The goodness-of-fit
+- Its associated p-value
+
+- 
 
 
 
