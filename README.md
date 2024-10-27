@@ -42,19 +42,19 @@ Below is a description of the files located in this folder.
 - Convert the .ARP file into a FASTA file
 - Move the .ARP file in a folder called "arp"
 
-#### Compute the diversity statistics
+##### Compute the diversity statistics
 
 - Step 1: Create a haplotype data frame containing the simulated genetic data
 - Step 2: Perform some small reformatting of the data frame so it can be converted into a loci object
 
-##### To compute the expected heterozygosity
+###### To compute the expected heterozygosity
 
 - For each sample, create a dedicated subset (g.e. one for 1910, one for 1950, and so on)
 - Convert each subset into a loci object
 - Convert each loci object into a genind object
 - For each genind object, compute the expected heterozygosity
 
-##### To compute the Fst
+###### To compute the Fst
 
 - Using the output of step 2, convert the data frame into a loci object
 - Convert the loci object into a genind object
