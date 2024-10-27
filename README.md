@@ -85,6 +85,18 @@ The main function returns the output of the ABC analysis, a data frame containin
 - The goodness-of-fit
 - Its associated p-value
 
+This process generates many files (log files, subsets, FASTA files, etc). Some code lines are available to move them into dedicated folders to free up the working directory. 
 
+#### Continuity test 
+
+Using the output of the ABC analysis, it is possible to identify the pairs for which the model is able to reproduce the observed intra-population diversity. 
+
+- Retrieve the selected simulations for the first sample pair
+- Extract the simulated Fst values
+- Extract the observed Fst value
+- Compute the p-value for the sample pair using the previously extracted Fst values
+- Build the output data frame containing: the name of the sample pair, the associated p-value, the conclusion of the test
+- Create and save the visual output for the continuity test (simulated Fst distribution and observed Fst value)
+- Create and save the visual output for the carrying capacity value
 
 
