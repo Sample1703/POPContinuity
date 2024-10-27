@@ -23,7 +23,7 @@ Below is a description of the files located in this folder.
 
 #### Main function 
 
-##### Computations around K and its prior
+**Computations around K and its prior**
 
 - Retrieve the value of K from the user dynamic_K file (number of vegetation file: 1, change: no, original value: 5,000)
 - Build a prior of K values ranging from K/10 to K*10 (from 500 to 50,000)
@@ -31,9 +31,9 @@ Below is a description of the files located in this folder.
 - Build an empty data frame designed to store the diversity statistics values
 - In the first column of the data frame, insert the simulation ID
 
-##### In a for loop
+**In a for loop**
 
-###### Generate and convert the .ARP file 
+#### Generate and convert the .ARP file 
 
 - In the second column of the data frame, insert the random value of K (new K value)
 - Replace the old K value in the vegetation with the new K value
@@ -42,19 +42,19 @@ Below is a description of the files located in this folder.
 - Convert the .ARP file into a FASTA file
 - Move the .ARP file in a folder called "arp"
 
-###### Compute the diversity statistics
+#### Compute the diversity statistics
 
 - Step 1: Create a haplotype data frame containing the simulated genetic data
 - Step 2: Perform some small reformatting of the data frame so it can be converted into a loci object
 
-**To compute the expected heterozygosity**
+##### To compute the expected heterozygosity
 
 - For each sample, create a dedicated subset (g.e. one for 1910, one for 1950, and so on)
 - Convert each subset into a loci object
 - Convert each loci object into a genind object
 - For each genind object, compute the expected heterozygosity
 
-**To compute the Fst**
+##### To compute the Fst
 
 - Using the output of step 2, convert the data frame into a loci object
 - Convert the loci object into a genind object
