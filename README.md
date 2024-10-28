@@ -95,7 +95,7 @@ The function outputs the ABC results when the starting K value is 5,000; 10,000 
 
 #### Continuity test 
 
-Using the output of the ABC analysis, it is possible to identify the pairs for which the model is able to reproduce the observed intra-population diversity. 
+Using one of the outputs of the ABC analysis, it is possible to identify the pairs for which the model is able to reproduce the observed intra-population diversity. 
 
 - Retrieve the selected simulations for the first sample pair
 - Extract the simulated Fst values
