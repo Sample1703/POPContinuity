@@ -87,6 +87,10 @@ The main function returns the output of the ABC analysis, a data frame containin
 
 This process generates many files (log files, subsets, FASTA files, etc). Some code lines are available to move them into dedicated folders to free up the working directory. 
 
+```
+abc_df_K5000 <- main.vatalanta(10000,"VAtalanta")
+```
+
 #### Continuity test 
 
 Using the output of the ABC analysis, it is possible to identify the pairs for which the model is able to reproduce the observed intra-population diversity. 
