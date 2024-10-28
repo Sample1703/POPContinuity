@@ -72,9 +72,9 @@ Once computed, the diversity statistics are stored in the statistics data frame 
 
 ##### For each subset (for loop)
 
-- Perform the ABC analysis using the intra-population diversity values of the two samples in the pair
-- Save the statistics of the simulations retained by the ABC analysis into an RData file
-- Save the results of the ABC analysis into the previously created empty data frame
+- Step 1: Perform the ABC analysis using the intra-population diversity values of the two samples in the pair
+- Step 2: Save the statistics of the simulations retained by the ABC analysis into an RData file
+- Step 3: Save the results of the ABC analysis into the previously created empty data frame
 
 The main function returns the output of the ABC analysis, a data frame containing :
 
@@ -96,6 +96,8 @@ The function outputs the ABC results when the starting K value is 5,000; 10,000 
 #### Continuity test 
 
 Using one of the outputs of the ABC analysis, it is possible to identify the pairs for which the model is able to reproduce the observed intra-population diversity. 
+
+During the ABC analysis, the statistics of the simulations retained by the ABC analysis are saved into an RData file (cf. Step 2 above). 
 
 - Retrieve the selected simulations for the first sample pair
 - Extract the simulated Fst values
