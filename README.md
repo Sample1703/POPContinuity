@@ -91,6 +91,8 @@ This process generates many files (log files, subsets, FASTA files, etc). Some c
 abc_df_K5000 <- main.vatalanta(10000,"VAtalanta")
 ```
 
+The function outputs the ABC results when the starting K value is 5,000; 10,000 simulations are performed and the settings folder to use is "VAtalanta".
+
 #### Continuity test 
 
 Using the output of the ABC analysis, it is possible to identify the pairs for which the model is able to reproduce the observed intra-population diversity. 
