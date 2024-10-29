@@ -19,6 +19,8 @@ Below is a description of the files located in this folder.
 
 **FASTAfiles**: Folder containing all the FASTA files used for the analysis
 
+**Vanessa_atalanta_metadata.txt** : Text files provided by Ines and containing information on the samples (g.e. ID, decade)
+
 **simulations.sh**: Bash script to launch the simulations
 
 **ARPtoFASTA.sh**: Bash script to convert an ARP file into a FASTA file
