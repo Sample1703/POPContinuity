@@ -25,7 +25,7 @@ Below is a description of the files located in this folder.
 
 **ARPtoFASTA.sh**: Bash script to convert an ARP file into a FASTA file
 
-**SPLATCHE4-Linux-64b**: SPLATCHE3 executable
+**SPLATCHE3-Linux-64b**: SPLATCHE3 executable
 
 ### How to perform the analysis
 
