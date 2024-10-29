@@ -109,6 +109,7 @@ During the ABC analysis, the statistics of the simulations retained by the ABC a
 - Create and save the visual output for the continuity test (simulated Fst distribution and observed Fst value)
 - Create and save the visual output for the carrying capacity value
 
-Cf. content of the R file ```ContinuityVatalanta.R```
+Cf. ```ContinuityVatalanta.R```
+The content of this file should be put into a function and inserted into the main function ```main.vatalanta()```.
 
 
