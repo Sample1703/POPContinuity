@@ -17,6 +17,8 @@ Below is a description of the files located in this folder.
 
 **VAtalanta.txt**: Settings file with the information required to launch the simulation
 
+**FASTAfiles**: Folder containing all the FASTA files used for the analysis
+
 **simulations.sh**: Bash script to launch the simulations
 
 **ARPtoFASTA.sh**: Bash script to convert an ARP file into a FASTA file
