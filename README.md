@@ -100,6 +100,7 @@ Using one of the outputs of the ABC analysis, it is possible to identify the pai
 
 During the ABC analysis, the statistics of the simulations retained by the ABC analysis are saved into an RData file (cf. Step 2 above). 
 
+- Import the RDatafile containing the statistics of the retained simulations
 - Retrieve the selected simulations for the first sample pair
 - Extract the simulated Fst values
 - Extract the observed Fst value
