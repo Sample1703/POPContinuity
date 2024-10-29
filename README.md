@@ -7,7 +7,7 @@ This project aims to develop an R package, called POPContinuity, that performs a
 
 ## Specific methodology for the application on Vanessa Atalanta
 
-The data files concerning the application on Vanessa Atalanta are in the folder "inst/extdata/VAtalanta"
+The data files concerning the application on Vanessa Atalanta are in the folder ```inst/extdata/VAtalanta```
 Below is a description of the files located in this folder. 
 
 **VAtalanta**: Folder containing all the settings file for SPLATCHE3
@@ -69,7 +69,7 @@ Once computed, the diversity statistics are stored in the statistics data frame 
 - Save the subsets into .TXT files
 - Save the statistics data frame into an RData file
 - Create a new empty data frame to store the output of the ABC analysis
-- Read the observed statistics, located in a file called "RealDataObs.obs" and create a subset of each sample pair 
+- Read the observed statistics, located in a file called ```RealDataObs.obs``` and create a subset of each sample pair 
 
 ##### For each subset (for loop)
 
